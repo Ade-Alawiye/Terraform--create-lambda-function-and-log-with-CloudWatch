@@ -1,6 +1,4 @@
-locals {
-  lambda_zip_location = "outputs/lambda-greet.zip"
-}
+
 
 data "archive_file" "lambda-greet" {
   type        = "zip"
