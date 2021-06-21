@@ -1,1 +1,1 @@
-# Terraform--create-lamda-function-and-log-with-CloudWatch
+# Terraform--create-lambda-function-and-log-with-CloudWatch
